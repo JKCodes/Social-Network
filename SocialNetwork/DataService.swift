@@ -37,4 +37,6 @@ class DataService {
         // Updates users data without overwriting existing data
         REF_USERS.child(uid).updateChildValues(userData)
     }
+    
+    
 }
