@@ -13,6 +13,7 @@ target 'SocialNetwork' do
   pod 'FBSDKCoreKit'
   pod 'FBSDKLoginKit'
   pod 'FBSDKShareKit'
+  pod 'SwiftKeychainWrapper'
 
 
 end
